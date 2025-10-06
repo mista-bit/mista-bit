@@ -38,7 +38,7 @@ Bacharelando em **Ciência da Computação**, atualmente focado em back-end
 
 [![Gmail](https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroucn2007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-4434b31a5)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_araujo.dev)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro._.dev)
 
   
 </div>
